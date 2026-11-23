@@ -61,7 +61,7 @@
   },
   "devDependencies": {
     "@types/geojson": "^7946.0.16",
-    "tsdown": "^0.23.4",
+    "tsdown": "^0.23.7",
     "typescript": "^7.0.2"
   }
 }
